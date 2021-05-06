@@ -1,7 +1,6 @@
-@tag
 Feature: I want to get the full product quote
 
-@tag1
+@E2EQuote
   Scenario: Validate the quote of full product
     Given I launch the website
     When Click on Get A Quote
